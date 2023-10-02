@@ -2,46 +2,27 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+This document is a high-level overview of the SFU Open Source (OS) Development Club. The document will provide you with an overview of our club and explain how to configure the software tools that the club leverages to support our collaborative development environment.
 
-Let's discover **Docusaurus in less than 5 minutes**.
+# About Us
 
-## Getting Started
+# Building the student developers network and culture
 
-Get started by **creating a new site**.
+# Who we are and how to join us
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### Roles
 
-### What you'll need
+#### Leadership
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+#### Software Development
 
-## Generate a new site
+##### Project Leads
 
-Generate a new Docusaurus site using the **classic template**.
+##### Developers
 
-The classic template will automatically be added to your project after you run the command:
+##### Designers
 
-```bash
-npm init docusaurus@latest my-website classic
-```
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+# Code of Conduct
 
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+# Contact
