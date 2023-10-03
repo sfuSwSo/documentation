@@ -28,6 +28,8 @@ For developers and designers,
 
 2. [Create a Document](create-a-document)
 
+3. [Extra Features](extra-features)
+
 For project leads,
 
 1. [Create a Project](create-a-project)
